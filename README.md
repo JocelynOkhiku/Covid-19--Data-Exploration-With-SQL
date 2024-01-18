@@ -5,7 +5,7 @@ The COVID-19 pandemic has had a profound impact on the world, affecting millions
 ## Datasets Used
 The project utilizes a COVID-19 dataset, which includes information such as confirmed cases, deaths, and recoveries. The dataset is sourced from reliable and publicly available data repositories.
 
-## Dataset Source:Our World in Data
-https://ourworldindata.org/covid-deaths
+## Dataset Source: 
+Our World in Data https://ourworldindata.org/covid-deaths
 
 ## Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Converting Data Types
